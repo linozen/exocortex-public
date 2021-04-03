@@ -1,4 +1,6 @@
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210209220000-aa4fe0c75726 h1:0el025jqd8fqt+BtIt71cJz28GuMMdj1AUUozw8SBAQ=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210209220000-aa4fe0c75726/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210209220000-aa4fe0c75726 h1:RC0nrHvtVgFRPpxE2Pz7iGFoNV8EAa3Vom9mKUV4RSk=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210209220000-aa4fe0c75726/go.mod h1:AKpYbqUVlj0VYsc7Jsxe1o8Ko2yV31A5ZPdfpACcXJw=
+github.com/linozen/wowchemy-hugo-modules v0.29.0 h1:HEEu+9XIHPqnO0VbpKwPOuhBDVHr9tV8fPjjc8RWVzk=
+github.com/linozen/wowchemy-hugo-modules v4.8.0+incompatible h1:5ySYwqxhhp8AnTOVzjsPwszvLKROQ5uXV4JZJl6ZdXA=
+github.com/linozen/wowchemy-hugo-modules/wowchemy v0.0.0-20210403145842-9daf49bdaeb9 h1:13Z82aNypqalq9cvzzmHiqMrAEDb+m8gmJEdGvMxVNA=
+github.com/linozen/wowchemy-hugo-modules/wowchemy v0.0.0-20210403145842-9daf49bdaeb9/go.mod h1:625JRNTmIHN5BhQQ315hz0YtG5uxd1xevR5M7WULuQ8=
+github.com/linozen/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210403150121-f9ebf53d48e3 h1:qyc3d4OcEGuh1Lutwa1TYm08Utv9StwIBFwYxJMRm1g=
+github.com/linozen/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210403150121-f9ebf53d48e3/go.mod h1:E57LVVpuwzZL2u9nPEV8eEAYKunR0zGPi39UjtCbWR0=

@@ -37,7 +37,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Project"
+site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My book description."
+description = "Berlin-based computer science and international relations student. Passionate about generating, organising and sharing knowledge. System hacker at the FSFE and research assistant at Stiftung Neue Verantwortung."
 
 ############################
 ## Site Features
@@ -56,13 +56,13 @@ description = "My book description."
 
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
-highlight = false
-# highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight = true
+highlight_languages = ["python", "go"]  # Add support for highlighting additional languages
+highlight_style = "atom-one-dark"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true}
+show_related = {post = true}
 
 ############################
 ## Social
@@ -105,7 +105,7 @@ time_format = "3:04 PM"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "l", show_logo = false, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true

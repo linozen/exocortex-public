@@ -5,14 +5,10 @@ draft = false
 subtitle = "An overview of my academic workflow"
 summary = "This is how I digest and synthesise knowledge"
 featured_image = "/img/academic-workflow.jpg"
-tags = ["workflow", "academia", "exocortex", "featured"]
-share = true
-profile = true
-commentable = true
-editable = false
+tags = ["workflow", "academia", "exocortex"]
 +++
 
-Links :: [Note-taking]({{< relref "note-taking" >}}) :: [Exocortex]({{< relref "exocortex" >}})
+Links >> [Note-taking]({{< relref "note-taking" >}}) | [Exocortex]({{< relref "exocortex" >}})
 
 
 ## Input {#input}
@@ -27,7 +23,7 @@ At some later point, you have to answer the question of what to do with this
 material. Am I happy just leaving it as a note in my exocortex? Or do I want to
 write more extensively about it (i.e. in the form of a paper or a thesis). In
 making this decision, the following rules by the Italian grandmaster of
-intellectual endeavours, Umberto Eco, offer some clarity ([Eco 2015, 23](#orgebd38df)).
+intellectual endeavours, Umberto Eco, offer some clarity ([Eco 2015, 23](#org6e8c07f)).
 
 
 ### Eco's Four Rules for Choosing a Thesis Topic {#eco-s-four-rules-for-choosing-a-thesis-topic}
@@ -98,4 +94,4 @@ intellectual endeavours, Umberto Eco, offer some clarity ([Eco 2015, 23](#orgebd
 
 ### Bibliography {#bibliography}
 
-<a id="orgebd38df"></a>Eco, Umberto. 2015. _How to Write a Thesis_. Cambridge, Massachusetts: MIT Press.
+<a id="org6e8c07f"></a>Eco, Umberto. 2015. _How to Write a Thesis_. Cambridge, Massachusetts: MIT Press.

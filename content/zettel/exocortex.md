@@ -12,7 +12,7 @@ commentable = true
 editable = false
 +++
 
-Links :: [Academic Workflow]({{< relref "academic-workflow" >}}) :: [Note-taking]({{< relref "note-taking" >}}) ::
+Links >> [Academic Workflow]({{< relref "academic-workflow" >}}) | [Note-taking]({{< relref "note-taking" >}})
 
 
 ## The Goal {#the-goal}
@@ -32,7 +32,7 @@ Links :: [Academic Workflow]({{< relref "academic-workflow" >}}) :: [Note-taking
 > an integrated domain where hunches, cut-and-try, intangibles, and the human
 > "feel for a situation" usefully co-exist with powerful concepts, streamlined
 > terminology and notation, sophisticated methods, and high-powered electronic
-> aids. ([Engelbart 1962](#org534aa70))
+> aids. ([Engelbart 1962](#org5ccc085))
 
 
 ## The Method {#the-method}
@@ -43,4 +43,4 @@ Links :: [Academic Workflow]({{< relref "academic-workflow" >}}) :: [Note-taking
 
 ### Bibliography {#bibliography}
 
-<a id="org534aa70"></a>Engelbart, Douglas C. 1962. “Augmenting Human Intellect: A Conceptual Framework.” _SRI Summary Report AFOSR-3223, Prepared for: Director of Information Sciences, Air Force Office of Scientific Research, Washington DC_ Contract AF49 (638-1024).
+<a id="org5ccc085"></a>Engelbart, Douglas C. 1962. “Augmenting Human Intellect: A Conceptual Framework.” _SRI Summary Report AFOSR-3223, Prepared for: Director of Information Sciences, Air Force Office of Scientific Research, Washington DC_ Contract AF49 (638-1024).

@@ -4,14 +4,14 @@ author = ["Linus Sehn"]
 draft = false
 subtitle = ""
 summary = "A gentle introduction to a powerful tool"
-tags = ["python", "mooc", "programming", "cs", "course"]
+tags = ["spotlight", "python", "mooc", "programming", "cs", "course"]
 share = true
 profile = true
-commentable = true
-editable = false
 +++
 
-Links :: [Python Index]({{< relref "python-index" >}}) ::
+Links >> [Python Index]({{< relref "python-index" >}})
+
+{{< toc >}}
 
 
 ## Getting Started {#getting-started}

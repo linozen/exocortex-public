@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Slick"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "Rubik"
+body_font = "Rubik"
+nav_font = "Rubik"
+mono_font = "JetBrains Mono"

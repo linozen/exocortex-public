@@ -1,6 +1,6 @@
 FROM debian:bullseye-slim as base
 
-from base as build
+FROM base as build
 # Update everything and install build dependencies
 RUN apt-get update && apt-get upgrade -y && apt-get install curl golang git -y
 # Install Hugo

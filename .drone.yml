@@ -3,6 +3,6 @@ name: default
 
 steps:
   - name: test
-    image: buster-slim
+    image: debian:buster-slim
     commands:
     - ls -la

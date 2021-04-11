@@ -6,16 +6,32 @@ subtitle = ""
 summary = "By 'augmenting human intellect' we mean increasing the capability of a man to approach a complex problem situation, to gain comprehension to suit his particular needs, and to derive solutions to problems."
 featured_image = "/img/exocortex.jpg"
 tags = ["exocortex", "workflow", "featured"]
-share = true
-profile = true
-commentable = true
-editable = false
 +++
 
 Links >> [Academic Workflow]({{< relref "academic-workflow" >}}) | [Note-taking]({{< relref "note-taking" >}})
 
+This is the documentation to my Exocortex. It is a collection of plain-text
+files with which I organise my projects and take notes. The note-taking part is
+publicly available while the project-managing aspects remain private. This
+document might serve as a starting point for others to create a similar system.
 
-## The Goal {#the-goal}
+## Basic Workflow {#basic-workflow}
+
+My workflow encompasses three phases: **planning**, **executing** and **reviewing**.
+
+### Planning {#planning}
+
+### Executing {#executing}
+
+### Reviewing {#reviewing}
+
+## Specific Workflows and their relationship to the Exocortex {#specific-workflows-and-their-relationship-to-the-exocortex}
+
+To find out more about my Zettelkasten-inspired note-taking workflow, visit [this
+note]({{< relref "note-taking" >}}). There you will find details on my approach to digesting knowledge that I
+come across in books, podcasts and other media.
+
+To find out about my use of the Exocortex for academic writing, visit [this note]({{< relref "academic-workflow" >}}).
 
 > By "augmenting human intellect" we mean increasing the capability of a man to
 > approach a complex problem situation, to gain comprehension to suit his
@@ -32,15 +48,10 @@ Links >> [Academic Workflow]({{< relref "academic-workflow" >}}) | [Note-taking]
 > an integrated domain where hunches, cut-and-try, intangibles, and the human
 > "feel for a situation" usefully co-exist with powerful concepts, streamlined
 > terminology and notation, sophisticated methods, and high-powered electronic
-> aids. ([Engelbart 1962](#org5ccc085))
-
-
-## The Method {#the-method}
-
+> aids. ([Engelbart 1962](#org76b84e4))
 
 ## Resources {#resources}
 
-
 ### Bibliography {#bibliography}
 
-<a id="org5ccc085"></a>Engelbart, Douglas C. 1962. “Augmenting Human Intellect: A Conceptual Framework.” _SRI Summary Report AFOSR-3223, Prepared for: Director of Information Sciences, Air Force Office of Scientific Research, Washington DC_ Contract AF49 (638-1024).
+<a id="org76b84e4"></a>Engelbart, Douglas C. 1962. “Augmenting Human Intellect: A Conceptual Framework.” _SRI Summary Report AFOSR-3223, Prepared for: Director of Information Sciences, Air Force Office of Scientific Research, Washington DC_ Contract AF49 (638-1024).

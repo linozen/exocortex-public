@@ -51,9 +51,6 @@ social:
   - icon: git
     icon_pack: fab
     link: https://git.fsfe.org/linus?tab=stars
-  - icon: git-alt
-    icon_pack: fab
-    link: https://git.sehn.dev/linozen
   - icon: github
     icon_pack: fab
     link: https://github.com/linozen

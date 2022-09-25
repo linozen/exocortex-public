@@ -1,0 +1,24 @@
+{
+    auto_https off
+}
+
+http://sehn.dev {
+    root * /usr/share/caddy
+    file_server
+}
+
+http://sehn.tech {
+    redir https://sehn.dev
+}
+
+http://www.sehn.dev {
+    redir https://sehn.dev
+}
+
+http://www.sehn.tech {
+    redir https://sehn.dev
+}
+
+http://exocortex-public.fly.dev {
+    redir https://sehn.dev/
+}

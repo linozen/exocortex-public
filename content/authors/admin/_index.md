@@ -6,34 +6,32 @@ name: Linus Sehn
 superuser: true
 
 # Role/position
-role: Graduate Student in International Relations, System Hacker at the FSFE
+role: System Administrator & Software Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: FU Berlin, HU Berlin, Uni Potsdam
-    url: "http://www.masterib.de/en/index.html"
   - name: Free Software Foundation Europe
     url: "https://fsfe.org/about/team.en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in all the ways computer technology reconfigures the political landscape.
+bio: I am interested in all the ways technology shapes human life.
 
 interests:
   - Surveillance Studies
   - Technology Policy
-  - Computer Science
+  - Python Programming
   - DevSecOps
-  - (Doom) Emacs
+  - NixOS, (Doom) Emacs
 
 education:
   courses:
-    - course: MA International Relations
-      institution: Freie Universität Berlin, Humboldt-Universität Berlin, Universität Potsdam
-      year: 2021 (exp.)
     - course: BSc Computer Science
       institution: FernUniversität Hagen
+      year: 2023 (exp.)
+    - course: MA International Relations
+      institution: Freie Universität Berlin, Humboldt-Universität Berlin, Universität Potsdam
       year: 2022 (exp.)
-    - course: BA Politics, Philosophy & Economics
+    - course: BA (Hons) Politics, Philosophy & Economics
       institution: University of Manchester, Erasmus Semester at SciencesPo in Paris
       year: 2017
 
@@ -62,24 +60,25 @@ social:
 # - icon: cv
 # icon_pack: ai
 # link: files/cv.pdf
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-#  - Researchers
-#  - Visitors
 ---
 
-I am a Berlin-based international relations student interested in how
-information technologies shape political processes.
+I am a system administrator and aspiring programmer with a background in
+political science, philosophy and economics. I am fascinated by all the ways in
+which technology shapes how we think and interact with one another.
+Thus, I am concerned about technologies of social control and all the material
+as well as pyschosocial externalities that result from their global
+proliferation.
 
-I just love generating, organising and sharing knowledge. I don't like
-if perfectionism gets in the way of publication, so regard this entire
-website as work-in-progress.
-
-Currently, I work as a System Hacker for the FSFE, making sure all of their
-servers operate smoothly. Feel free to check out [my main
+Currently, I work as a System Administrator for the [FSFE](https://fsfe.org).
+Together with a team of passionate free software enthusiasts, I
+am in charge of ensuring that our free and self-owned IT infrastructure works as
+reliably as possible. Feel free to check out [my
 contributions](https://git.fsfe.org/linus?tab=stars) there. Maybe you find
-something useful for maintaining your own servers.
+something useful for your own servers.
 
-To reach out, drop me a line at [hi@sehn.tech](mailto:hi@sehn.tech).
+I love generating, organising and sharing knowledge. I don't like if
+perfectionism gets in the way of publication, so regard this entire website as
+work-in-progress. Feel free to take a look at the public part of my
+[extended brain](/exocortggjex).
+
+To reach out, write me at [hi@sehn.dev](mailto:hi@sehn.dev).

@@ -1,26 +1,37 @@
 # Theme metadata
 name = "Slick"
 
-# Is theme light or dark?
-is_light = true
-
 # Primary
-primary = "#51afef"
-
-# Menu
-menu_primary = "#000"
-menu_text = "#fff"
-menu_text_active = "#51afef"
-menu_title = "#fff"
+primary = "#0170bf"
 
 [dark]
   # Menu
   menu_primary = "#000"
-  menu_text = "#fff"
-  menu_text_active = "#51afef"
-  menu_title = "#fff"
+  menu_text = "#f0f0f0"
+  menu_text_active = "#0170bf"
+  menu_title = "#f0f0f0"
 
   # Backgrounds
   background = "#000"
   home_section_odd = "#000"
   home_section_even = "#000"
+
+  # Links
+  link = "#0170bf"
+  link_hover = "#51afef"
+
+[light]
+  # Menu
+  menu_primary = "#f0f0f0"
+  menu_text = "#000"
+  menu_text_active = "#0170bf"
+  menu_title = "#000"
+
+  # Backgrounds
+  background = "#f0f0f0"
+  home_section_odd = "#f0f0f0"
+  home_section_even = "#e7e7e7"
+
+  # Links
+  link = "#0170bf"
+  link_hover = "#51afef"

@@ -3,16 +3,31 @@ widget: experience
 headless: true
 active: true
 weight: 20
-title: "Experience"
-subtitle: "What I've done with my life (professionally)"
+title: "Professional Experience"
+subtitle: "Where I've worked"
 date_format: "Jan 2006"
 
 experience:
-  - title: "System Hacker"
+  - title: "System Administrator & Software Engineer"
     company: "Free Software Foundation Europe"
     company_url: "https://fsfe.org/about/team"
-    date_start: "2021-01-01"
+    location: "Remote (full-time)"
+    date_start: "2022-07-01"
     date_end: ""
+    description: |2-
+        
+        Improve and maintain the fully free and self-owned IT services for the entire organisation.
+        
+        Coordinate and contribute to the development of the [REUSE tool](https://github.com/fsfe/reuse-tool).
+        
+        Coordinate and contribute to the development of the [in-house Flask application](https://git.fsfe.org/fsfe-system-hackers/fsfe-cd) used for donation processing and user data management
+        
+  - title: "System Hacker Contributor"
+    company: "Free Software Foundation Europe"
+    company_url: "https://fsfe.org/about/team"
+    location: "Remote (part-time)"
+    date_start: "2021-01-01"
+    date_end: "2022-06-30"
     description: |2-
         
         Deployed an auto-upgrade mechanism across all Debian hosts using Ansible.
@@ -21,6 +36,18 @@ experience:
     
         Wrote a dynamic inventory script (in Python) to streamline the internal usage of Ansible
 
+  - title: "Student Assistant"
+    company: "Stiftung Neue Verantwortung (Digital Rights, Surveillance and Democracy)"
+    company_url: "https://www.stiftung-nv.de/en/project/digital-rights-surveillance-and-democracy"
+    location: "Berlin, DE (part-time)"
+    date_start: "2021-04-07"
+    date_end: "2022-01-31"
+    description: |2-
+        
+        Created and deployed a [web-based data visualisation](https://survey.guardint.org) of survey responses.
+
+        Supported the [GUARDINT](https://guardint.org) project.
+        
   - title: "Intern (Hospitant)"
     company: "Federal Foreign Office"
     company_url: "https://www.auswaertiges-amt.de/en"

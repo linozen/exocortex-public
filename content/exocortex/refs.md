@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Reference Notes
-subtitle: "These types of notes tend to much shorter. They either contain a summary/outline of a reference I find interesting or a collection of quotes from it. Sometimes they might simply include a link to another reference or concept."
+subtitle: "These types of notes tend to be much shorter. They either contain a summary/outline of a reference I find interesting or a collection of quotes from it. Sometimes they simply include a link to another reference or concept."
 
 content:
   # Page type to display. E.g. project.

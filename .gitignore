@@ -5,3 +5,5 @@
 resources/
 public/
 jsconfig.json
+/.envrc
+/.direnv/

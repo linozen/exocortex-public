@@ -1,5 +1,6 @@
 {
     auto_https off
+    debug
 }
 
 http://sehn.dev {
@@ -7,18 +8,14 @@ http://sehn.dev {
     file_server
 }
 
-http://sehn.tech {
-    redir https://sehn.dev
+http://www.sehn.dev {
+    redir https://sehn.dev{uri} permanent
 }
 
-http://www.sehn.dev {
-    redir https://sehn.dev
+http://sehn.tech {
+    redir https://sehn.dev{uri} permanent
 }
 
 http://www.sehn.tech {
-    redir https://sehn.dev
-}
-
-http://exocortex-public.fly.dev {
-    redir https://sehn.dev/
+    redir https://sehn.dev{uri} permanent
 }

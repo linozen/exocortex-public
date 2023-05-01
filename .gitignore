@@ -7,3 +7,4 @@ public/
 jsconfig.json
 /.envrc
 /.direnv/
+/.hugo_build.lock

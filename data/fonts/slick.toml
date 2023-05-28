@@ -5,7 +5,7 @@ name = "Slick"
 google_fonts = ""
 
 # Font families
-heading_font = "Rubik"
-body_font = "Rubik"
-nav_font = "Rubik"
+heading_font = "Inter"
+body_font = "Inter"
+nav_font = "Inter"
 mono_font = "JetBrains Mono"

@@ -4,7 +4,7 @@ appearance:
   theme_day: slick
   theme_night: slick
   font: slick
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -12,7 +12,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'Linus Sehn'
     description: 'The personal website of Linus Sehn, currently system administrator and software engineer at the FSFE.'
     twitter: ''
   analytics:
@@ -41,7 +41,7 @@ footer:
       enable: true
       allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 

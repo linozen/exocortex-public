@@ -2,7 +2,7 @@
 widget: tag_cloud
 headless: true  # This file represents a page section.
 
-title: "Explore ..."
+title: "Explore"
 subtitle: "the issues that fascinate me"
 
 content:

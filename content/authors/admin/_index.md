@@ -25,9 +25,6 @@ interests:
 
 education:
   courses:
-    - course: MA International Relations
-      institution: Freie Universität Berlin, Humboldt-Universität Berlin, Universität Potsdam
-      year: 2022
     - course: BA (Hons) Politics, Philosophy & Economics
       institution: University of Manchester, Erasmus Semester at SciencesPo in Paris
       year: 2017

@@ -69,6 +69,6 @@ contributions](https://git.fsfe.org/linus?tab=stars) there.
 I love generating, organising and sharing knowledge. I don't like if
 perfectionism gets in the way of publication, so regard this entire website as
 work-in-progress. Feel free to take a look at the public part of my
-[extended brain](/exocortggjex).
+[extended brain](/exocortex).
 
 To reach out, write me at [hi@sehn.dev](mailto:hi@sehn.dev).
